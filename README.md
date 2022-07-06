@@ -1,6 +1,6 @@
 ## About 
 
-These are optimized server configuration files for CraftBukkit/Paper/Spigot/Purpur servers. These configs feature major performance improvements, with little/negligble changes to vanilla.
+These are optimized server configuration files for CraftBukkit/Paper/Spigot/Purpur servers. These configs feature major performance improvements, with little/negligble changes to vanilla other than better performance improvements when compared to the default configurations.
 
 ## Installation
 
