@@ -26,7 +26,7 @@ settings:
   console-has-all-permissions: false
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
-  max-joins-per-tick: 3
+  max-joins-per-tick: 5
   track-plugin-scoreboards: false
   fix-entity-position-desync: true
   suggest-player-names-when-null-tab-completions: true

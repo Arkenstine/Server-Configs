@@ -6,7 +6,7 @@
 # 
 # If you need help with the configuration or have any questions related to Spigot,
 # join us at the IRC or drop by our forums and leave a post.
-# 
+# Edited by Lyla
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
@@ -156,10 +156,11 @@ world-settings:
     squid-spawn-range:
       min: 45.0
     entity-tracking-range:
-      players: 50
+      players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
   worldeditregentempworld:
     verbose: false
+#hi
