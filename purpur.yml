@@ -652,7 +652,7 @@ world-settings:
           max_health: 20.0
       trader_llama:
         ridable: false
-        ridable-in-water: false
+        ridable-in-water: true
         breeding-delay-ticks: 6000
         attributes:
           max_health:
