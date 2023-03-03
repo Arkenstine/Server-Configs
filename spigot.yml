@@ -120,7 +120,7 @@ world-settings:
       raiders: 48
       misc: 12
       water: 12
-      villagers: 16
+      villagers: 12
       flying-monsters: 32
       villagers-work-immunity-after: 100
       villagers-work-immunity-for: 20
