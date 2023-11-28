@@ -4,6 +4,6 @@ These are optimized server configuration files for CraftBukkit/Paper/Spigot/Purp
 
 ## Installation
 
-Use the files at the top of this page and copy and paste them into your own! For example, if you run a PaperMC server, replace your `paper.yml` with the text from my `paper.yml` file attached above. The same process applies for the other files aswell.
+Use the files at the top of this page and copy and paste them into your own! For example, if you run a PaperMC server, replace your `paper.yml` with the text from my `paper.yml` file attached above. Alternatively, you can delete and replace the entire file if you wish to do that instead. The same process applies for the other files.
 
 
